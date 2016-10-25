@@ -1,0 +1,22 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "Mqtt broker with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blobby19/mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blobby19/mqtt/issues"
+  },
+  "homepage": "https://github.com/Blobby19/mqtt#readme",
+  "dependencies": {
+    "mosca": "^2.2.0"
+  }
+}
